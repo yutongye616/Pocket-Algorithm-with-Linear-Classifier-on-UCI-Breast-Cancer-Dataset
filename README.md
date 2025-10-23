@@ -23,7 +23,7 @@ Designed and executed 10 randomized, stratified trials for each training set siz
   - `NumPy`
   - `Matplotlib`
   - `scikit-learn`
-**Dataset: `sklearn.datasets.load_breast_cancer()`
+**Dataset: sklearn.datasets.load_breast_cancer()
 **System: macOS 
 
 ---
