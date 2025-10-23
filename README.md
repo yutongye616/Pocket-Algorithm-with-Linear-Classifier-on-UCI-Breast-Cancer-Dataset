@@ -27,5 +27,5 @@ The Pocket Algorithm implementation was developed and executed using Python with
 - [Pocket Algorithm for Training Perceptrons — StackExchange Discussion](https://stats.stackexchange.com/questions/51200/pocket-algorithm-for-training-perceptrons)  
 - [Machine Learning Basics: Pocket Learning Algorithm — CodeProject](https://www.codeproject.com/Articles/1229772/Machine-Learning-Basics-Pocket-Learning-Algorithm)  
 - [Caltech: Pocket Algorithm Lecture Notes — Yaser Abu-Mostafa](https://work.caltech.edu/library/032.html)  
-- [Pocket Algorithm for Training Perceptrons — StackExchange Discussion](https://stats.stackexchange.com/questions/51200/pocket-algorithm-for-training-perceptrons) 
+
 
