@@ -19,10 +19,7 @@ Designed and executed 10 randomized, stratified trials for each training set siz
 ## 2️⃣ What Platform Did You Use?
 
 **Google Colab** (Python 3 environment)
-**Libraries used:
-  - `NumPy`
-  - `Matplotlib`
-  - `scikit-learn`
+**Libraries used: NumPy,Matplotlib,scikit-learn
 **Dataset: sklearn.datasets.load_breast_cancer()
 **System: macOS 
 
