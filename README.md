@@ -16,16 +16,12 @@ Designed and executed 10 randomized, stratified trials for each training set siz
 - **Problem 5:** Computed and analyzed key metrics — \(E_{in}\), \(E_{out}\), generalization gap, and average updates — along with visualizations (EDA summary and 2×2 results panel).
 
 
-## 2️⃣ What Platform Did You Use?
+## 2. What platform did you use?
+The Pocket Algorithm implementation was developed and executed using Python with scikit-learn in Google Colab.
 
-**Google Colab** (Python 3 environment)
-**Libraries used: NumPy,Matplotlib,scikit-learn
-**Dataset: sklearn.datasets.load_breast_cancer()
-**System: macOS 
 
----
 
-## 3️⃣ Resources That Helped Me
+## 3. Resources That Helped Me
 
 - [Scikit-learn Documentation — Breast Cancer Dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-dataset)
 - [NumPy Documentation — `np.linalg.pinv`](https://numpy.org/doc/stable/reference/generated/numpy.linalg.pinv.html)
