@@ -24,8 +24,8 @@ The Pocket Algorithm implementation was developed and executed using Python with
 ## 3. Resources That Helped Me
 
 - [Scikit-learn Documentation — Breast Cancer Dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-dataset)  
-- [NumPy Documentation — `np.linalg.pinv`](https://numpy.org/doc/stable/reference/generated/numpy.linalg.pinv.html)  
-- [Matplotlib Documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)  
-- [Colab + GitHub Integration Guide](https://colab.research.google.com/github)  
+- [Pocket Algorithm for Training Perceptrons — StackExchange Discussion](https://stats.stackexchange.com/questions/51200/pocket-algorithm-for-training-perceptrons)  
+- [Machine Learning Basics: Pocket Learning Algorithm — CodeProject](https://www.codeproject.com/Articles/1229772/Machine-Learning-Basics-Pocket-Learning-Algorithm)  
+- [Caltech: Pocket Algorithm Lecture Notes — Yaser Abu-Mostafa](https://work.caltech.edu/library/032.html)  
 - [Pocket Algorithm for Training Perceptrons — StackExchange Discussion](https://stats.stackexchange.com/questions/51200/pocket-algorithm-for-training-perceptrons) 
 
