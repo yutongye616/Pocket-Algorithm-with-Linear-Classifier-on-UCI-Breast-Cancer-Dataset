@@ -14,13 +14,7 @@ Implemented a fully vectorized **Pocket Algorithm** that updates weights for mis
 Designed and executed 10 randomized, stratified trials for each training set size \( N \in \{50, 100, 150, 200, 250, 300, 350, 400, 450, 500\} \), keeping 100 samples fixed for testing.
   
 - **Problem 5:** Computed and analyzed key metrics — \(E_{in}\), \(E_{out}\), generalization gap, and average updates — along with visualizations (EDA summary and 2×2 results panel).
-- **Problem 6:** Summarized results and discussions in the report, covering:
-  - **Error Rate Analysis:** Standardization improved accuracy and consistency.  
-  - **Convergence Efficiency:** Standardized model trained faster and converged more reliably.  
-  - **Generalization Behavior:** Standardization produced more stable performance across trials.  
-  - **Sample Efficiency:** Standardized model achieved similar results with fewer samples.
 
----
 
 ## 2️⃣ What Platform Did You Use?
 
